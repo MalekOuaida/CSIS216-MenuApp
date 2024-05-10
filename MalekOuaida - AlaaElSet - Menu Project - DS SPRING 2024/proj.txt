@@ -1,0 +1,48 @@
+Margarita Flatbread,O,A,11.75,Tomato sauce,mozzarella cheese,basil,flatbread crust
+Margherita Pizza,V,A,12,Tomato sauce,mozzarella cheese,basil
+Spring Rolls,O,A,7.25,Rice paper,shrimp,vermicelli noodles,vegetables
+Cheeseburger,O,A,9.5,Beef patty,cheddar cheese,lettuce,tomato
+Chicken Quesadilla,O,A,10.25,Grilled chicken,cheese,tortilla,salsa,sour cream
+Veggie Burrito,V,A,8.7,Rice,beans,bell peppers,onions,cheese,tortilla
+Chicken Caesar Wrap,O,A,9.25,Grilled chicken,romaine lettuce,Caesar dressing,tortilla
+Falafel Wrap,G,A,7.15,Falafel balls,lettuce,tomato,tahini sauce
+Greek Salad,V,A,8.6,Romaine lettuce,feta cheese,olives,cucumber,tomatoes
+Caprese Salad,V,A,10.35,Tomato,mozzarella cheese,basil,balsamic glaze
+Chicken Caesar Salad,O,A,8.75,Romaine lettuce,Caesar dressing,croutons,Parmesan cheese
+Beef Tacos,O,A,10.6,Beef strips,tortillas,salsa,lettuce,cheese
+Greek Gyro,O,A,9.1,Gyr meat,tzatziki sauce,lettuce,tomatoes
+Veggie Pizza,V,A,11.5,Tomato sauce,bell peppers,onions,olives,mushrooms
+Margherita Flatbread,V,A,10.1,Tomato sauce,mozzarella cheese,basil,flatbread crust
+Margherita Pizza,V,A,11.3,Tomato sauce,mozzarella cheese,basil
+Spring Rolls,O,A,7.8,Rice paper,shrimp,vermicelli noodles,vegetables
+Cheeseburger,O,A,8.95,Beef patty,cheddar cheese,lettuce,tomato
+Chicken Quesadilla,O,A,9.7,Grilled chicken,cheese,tortilla,salsa,sour cream
+Ratatouille,O,M,10.5,Eggplant,zucchini,bell peppers,tomatoes,herbs
+Beef Stroganoff,O,M,14.25,Beef strips,mushrooms,sour cream,egg noodles
+Vegetable Stir Fry,V,M,9.8,Mixed vegetables,tofu,soy sauce
+Chicken Alfredo,O,M,15.45,Chicken breast,Alfredo sauce,fettuccine pasta
+Chicken Tikka Masala,O,M,13.9,Chicken,tikka masala sauce,rice,naan,bread
+Margherita Pasta,V,M,10.8,Tomato sauce,mozzarella cheese,basil,penne pasta
+Tandoori Chicken,O,M,13.75,Chicken drumsticks,yogurt marinade,spices
+Lentil Soup,G,M,6.2,Lentils,carrots,celery,vegetable broth
+Minestrone Soup,G,M,7.1,Beans,pasta,carrots,celery,tomatoes,broth
+Pad Thai,O,M,12.4,Rice noodles,shrimp,tofu,peanuts,tamarind sauce
+Sushi Platter,O,M,19.2,Assorted sushi rolls,soy sauce,wasabi
+Mushroom Risotto,O,M,13.2,Arborio rice,mushrooms,Parmesan cheese,broth
+Spaghetti Bolognese,O,M,13.15,Ground beef,tomato sauce,spaghetti
+Ratatouille,G,M,10.9,Eggplant,zucchini,bell peppers,tomatoes,herbs
+Beef Stroganoff,O,M,14.75,Bee ,strips,mushrooms,sour cream,egg noodles
+Vegetable Stir Fry,G,M,10.2,Mixed vegetables,tofu,soy sauce
+Chicken Alfredo,O,M,15.75,Chicken breast,Alfredo sauce,fettuccine pasta
+Chicken Tikka Masala,O,M,13.5,Chicken,tikka masala sauce,rice,naan bread
+Margherita Pasta,V,M,11.2,Tomato sauce,mozzarella cheese,basil,penne pasta
+Tandoori Chicken,O,M,14.6,Chicken drumsticks,yogurt marinade,spices
+BBQ Ribs,O,M,17.05,Pork ribs,BBQ sauce,coleslaw,fries
+Beef Kabab,O,M,12.5,beef,bell peppers
+Shrimp Scampi,O,D,16.65,Shrimp,garlic,butter,white wine,linguine pasta
+Frozen Berry,G,D,5,black berry,raspberry,strawberry
+Acai,G,D,8,mango,kiwi,grape,fruits
+MAJD,O,D,1,life
+Milk Shake,O,B,3,milk,whipped cream,fruit
+Margarita Cocktail,G,B,8.4,Tequila,lime,juice,triple sec,salt rim
+Ginger Ale,G,B,5.99,whisky,ginger,bubbly
