@@ -62,7 +62,7 @@ To use the Hamido's Menu System:
 ## Contributors
 
 - Malek Ouaida
-- AlaaElSet
+- Alaa ElSet
 
 ## License
 
