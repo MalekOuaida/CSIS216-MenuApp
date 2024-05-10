@@ -1,4 +1,4 @@
-# Menu System
+# Hamido's Menu System
 
 This project is a menu system developed for Hamido's restaurant, allowing both clients and admins to interact with the menu, place orders, and manage special offers.
 
@@ -14,7 +14,7 @@ This project is a menu system developed for Hamido's restaurant, allowing both c
 
 ## Introduction
 
-Hamido's Menu System is a software application developed as part of the DS Spring 2024 project by Malek Ouaida and AlaaElSet. It provides a user-friendly interface for both clients and administrators to interact with the restaurant's menu and place orders. The system also includes functionality for managing special offers to enhance customer experience.
+Hamido's Menu System is a software application developed as part of the DS Spring 2024 project by Malek Ouaida and Alaa ElSet. It provides a user-friendly interface for both clients and administrators to interact with the restaurant's menu and place orders. The system also includes functionality for managing special offers to enhance customer experience.
 
 ## Features
 
